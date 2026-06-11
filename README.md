@@ -25,8 +25,8 @@ A modern portfolio and personal brand website built with Next.js, showcasing AI 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-by-minal.git
-cd ai-by-minal
+git clone https://github.com/harshitbanthiya24/Ai-by-Minal-website.git
+cd Ai-by-Minal-website
 ```
 
 2. Install dependencies:
@@ -54,31 +54,8 @@ This generates a static export in the `out/` directory.
 
 This project is configured for free hosting on **GitHub Pages** with automatic deployment via GitHub Actions.
 
-### Setup Instructions
-
-1. **Create a GitHub repository**:
-   - Go to [GitHub](https://github.com/new)
-   - Create a new repository named `ai-by-minal`
-   - Do NOT initialize with README (we have one)
-
-2. **Push your code**:
-```bash
-git add .
-git commit -m "Initial commit: Ai by Minal website"
-git branch -M main
-git remote add origin https://github.com/yourusername/ai-by-minal.git
-git push -u origin main
-```
-
-3. **Enable GitHub Pages**:
-   - Go to repository Settings
-   - Navigate to Pages
-   - Select "GitHub Actions" as the source
-   - The site will deploy automatically on push to `main`
-
-4. **View your live site**:
-   - It will be available at `https://yourusername.github.io/ai-by-minal`
-   - Or set a custom domain in repository settings
+The site will be automatically deployed to:
+- `https://harshitbanthiya24.github.io/Ai-by-Minal-website`
 
 ## Project Structure
 
